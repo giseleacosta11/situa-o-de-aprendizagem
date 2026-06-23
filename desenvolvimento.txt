@@ -1,1 +1,2 @@
 Com o Git, é possível salvar diferentes versões de um projeto, recuperar alterações anteriores e criar ramificações (branches) para desenvolver novas funcionalidades sem afetar o código principal. Além disso, facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam simultaneamente.
+gisele
