@@ -1,1 +1,4 @@
-origem do versionamneto: 
+origem do versionamento: o versionamento serve para registrar, rastrear e gerenciar as alteraçõs em arquivos e projetos ao longo do tempo.
+introdução:
+desenvolvimento:
+conclusão
