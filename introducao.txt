@@ -1,0 +1,1 @@
+O Git é uma ferramenta de controle de versão que permite acompanhar e registrar alterações em projetos de software. Ele ajuda desenvolvedores a organizar o código e trabalhar de forma colaborativa.
